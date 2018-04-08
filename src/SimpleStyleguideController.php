@@ -23,7 +23,7 @@ use SilverStripe\Forms\FormAction;
 use SilverStripe\Forms\RequiredFields;
 use SilverStripe\Forms\Form;
 use SilverStripe\Assets\File;
-use SilverStripe\Security\SimpleStyleguideController;
+use SilverStripe\Security\Security;
 
 /**
  * @package simple-styleguide
